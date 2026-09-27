@@ -33,19 +33,20 @@ export const capsules = {
         "https://youtu.be/9vlqzlvVWMY?si=YEfTKI7zxlFNHgig&t=1635", // 9. Formule quadratique
     ],
     3: [
-        "", // 1. Entier entre -1000 et 1000
-        "", // 2. Nombres de 42 à 55
-        "", // 3. Nombre d'échantillons aléatoire
-        "", // 4. Roche, papier, ciseaux
-        "", // 5. De 0 à 5, puis de 5 à 0
-        "", // 6. Distance en 3D
-        "", // 7. Voiture qui accélère
-        "", // 8. La boite, le retour
-        "", // 9. Tortue : zigzag
-        "", // 10. Tortue : le X
-        "", // 11. Tortue : le cœur
-        "", // 12. Tortue : la spirale
-        "", // 13. Tortue : marche aléatoire
+        "https://youtu.be/2GY44ohDWu8?si=7zi9x6n8JO2F1-8t", // 1. Entier entre -1000 et 1000
+        "https://youtu.be/2GY44ohDWu8?si=50fUIUQ4BWgcC7NM&t=44", // 2. Nombres de 42 à 55
+        "https://youtu.be/2GY44ohDWu8?si=50fUIUQ4BWgcC7NM&t=98", // 3. Nombre d'échantillons aléatoire
+        "https://youtu.be/2GY44ohDWu8?si=50fUIUQ4BWgcC7NM&t=180", // 4. Roche, papier, ciseaux
+        "https://youtu.be/2GY44ohDWu8?si=50fUIUQ4BWgcC7NM&t=291", // 5. De 0 à 5, puis de 5 à 0
+        "https://youtu.be/2GY44ohDWu8?si=50fUIUQ4BWgcC7NM&t=565", // 6. Distance en 3D
+        "https://youtu.be/2GY44ohDWu8?si=50fUIUQ4BWgcC7NM&t=865", // 7. Voiture qui accélère
+        "https://youtu.be/2GY44ohDWu8?si=50fUIUQ4BWgcC7NM&t=1084", // 8. La boite, le retour
+        "https://youtu.be/2GY44ohDWu8?si=50fUIUQ4BWgcC7NM&t=1268", // 9. Tortue : zigzag
+        "https://youtu.be/2GY44ohDWu8?si=50fUIUQ4BWgcC7NM&t=1441", // 10. Tortue : le X
+        "https://youtu.be/2GY44ohDWu8?si=50fUIUQ4BWgcC7NM&t=1840", // 11. Tortue : le cœur
+        "https://youtu.be/2GY44ohDWu8?si=50fUIUQ4BWgcC7NM&t=2000", // 12. Tortue : la spirale
+        "https://youtu.be/2GY44ohDWu8?si=50fUIUQ4BWgcC7NM&t=2088", // 13. Tortue : marche aléatoire
+        "https://youtu.be/2GY44ohDWu8?si=50fUIUQ4BWgcC7NM&t=2263", // 13. Tortue : marche aléatoire
     ],
     4: [
         "", // 1. Liste du plutonium
