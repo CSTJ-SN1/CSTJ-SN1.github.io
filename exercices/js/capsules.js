@@ -22,15 +22,15 @@ export const capsules = {
         "https://youtu.be/BwISdr4WgwM?si=7VkBrFb4rvzxoRw6&t=1362", // 10. Formule d'un autre cours
     ],
     2: [
-        "", // 1. Lumière allumée
-        "", // 2. Moyenne de 3 nombres
-        "", // 3. Pourboire
-        "", // 4. Une variable de chaque type
-        "", // 5. Celsius vers Fahrenheit
-        "", // 6. Échanger a et b
-        "", // 7. Moyenne requise
-        "", // 8. Jour ou nuit
-        "", // 9. Formule quadratique
+        "https://youtu.be/9vlqzlvVWMY", // 1. Lumière allumée
+        "https://youtu.be/9vlqzlvVWMY?si=YEfTKI7zxlFNHgig&t=188", // 2. Moyenne de 3 nombres
+        "https://youtu.be/9vlqzlvVWMY?si=YEfTKI7zxlFNHgig&t=371", // 4. Une variable de chaque type
+        "https://youtu.be/9vlqzlvVWMY?si=YEfTKI7zxlFNHgig&t=585", // 3. Pourboire
+        "https://youtu.be/9vlqzlvVWMY?si=YEfTKI7zxlFNHgig&t=869", // 5. Celsius vers Fahrenheit
+        "https://youtu.be/9vlqzlvVWMY?si=YEfTKI7zxlFNHgig&t=1028", // 6. Échanger a et b
+        "https://youtu.be/9vlqzlvVWMY?si=YEfTKI7zxlFNHgig&t=1145", // 7. Moyenne requise
+        "https://youtu.be/9vlqzlvVWMY?si=YEfTKI7zxlFNHgig&t=1411", // 8. Jour ou nuit
+        "https://youtu.be/9vlqzlvVWMY?si=YEfTKI7zxlFNHgig&t=1635", // 9. Formule quadratique
     ],
     3: [
         "", // 1. Entier entre -1000 et 1000
