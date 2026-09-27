@@ -10,16 +10,16 @@
 
 export const capsules = {
     1: [
-        "", // 1. Affichez la somme de 50 - 8 * 10
-        "", // 2. Type des valeurs
-        "", // 3. 17 * 4.5, puis * 100
-        "", // 4. Angle manquant du triangle
-        "", // 5. Distance entre deux points
-        "", // 6. Volume d'une sphère
-        "", // 7. animal + action
-        "", // 8. Le « Haha »
-        "", // 9. La boite
-        "", // 10. Formule d'un autre cours
+        "https://www.youtube.com/watch?v=BwISdr4WgwM", // 1. Affichez la somme de 50 - 8 * 10
+        "https://youtu.be/BwISdr4WgwM?si=-s4EZBZ7Ay24Snp0&t=54", // 2. Type des valeurs
+        "https://youtu.be/BwISdr4WgwM?si=63mStes8WdjuPaOv&t=178", // 3. 17 * 4.5, puis * 100
+        "https://youtu.be/BwISdr4WgwM?si=63mStes8WdjuPaOv&t=307", // 4. Angle manquant du triangle
+        "https://youtu.be/BwISdr4WgwM?si=63mStes8WdjuPaOv&t=436", // 5. Distance entre deux points
+        "https://youtu.be/BwISdr4WgwM?si=63mStes8WdjuPaOv&t=683", // 6. Volume d'une sphère
+        "https://youtu.be/BwISdr4WgwM?si=63mStes8WdjuPaOv&t=846", // 7. animal + action
+        "https://youtu.be/BwISdr4WgwM?si=63mStes8WdjuPaOv&t=973", // 8. Le « Haha »
+        "https://youtu.be/BwISdr4WgwM?si=4cjxHB899lLeMmdt&t=1097", // 9. La boite
+        "https://youtu.be/BwISdr4WgwM?si=7VkBrFb4rvzxoRw6&t=1362", // 10. Formule d'un autre cours
     ],
     2: [
         "", // 1. Lumière allumée
