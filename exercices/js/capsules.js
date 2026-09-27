@@ -49,16 +49,15 @@ export const capsules = {
         "https://youtu.be/2GY44ohDWu8?si=50fUIUQ4BWgcC7NM&t=2263", // 13. Tortue : marche aléatoire
     ],
     4: [
-        "", // 1. Liste du plutonium
-        "", // 2. Avant-dernier élément
-        "", // 3. Remplir une liste avec l'utilisateur
-        "", // 4. Nombres plus grands que 80
-        "", // 5. 100 nombres au hasard
-        "", // 6. 100 cercles au hasard
-        "", // 7. Dégradé
-        "", // 8. Lignes depuis le centre
-        "", // 9. Compléter le code
-        "", // 10. Dessin inspiré d'une image
+        "https://youtu.be/zaoguVWuXA4?si=770Kmx7XlbiXpjbn", // 1. Liste du plutonium
+        "https://youtu.be/zaoguVWuXA4?si=LegkMzYix6rTO1Zo&t=160", // 2. Avant-dernier élément
+        "https://youtu.be/zaoguVWuXA4?si=LegkMzYix6rTO1Zo&t=358", // 3. Remplir une liste avec l'utilisateur
+        "https://youtu.be/zaoguVWuXA4?si=LegkMzYix6rTO1Zo&t=610", // 4. Nombres plus grands que 80
+        "https://youtu.be/zaoguVWuXA4?si=LegkMzYix6rTO1Zo&t=690", // 5. 100 nombres au hasard
+        "https://youtu.be/zaoguVWuXA4?si=LegkMzYix6rTO1Zo&t=775", // 6. 100 cercles au hasard
+        "https://youtu.be/zaoguVWuXA4?si=LegkMzYix6rTO1Zo&t=910", // 7. Dégradé
+        "https://youtu.be/zaoguVWuXA4?si=LegkMzYix6rTO1Zo&t=1109", // 8. Lignes depuis le centre
+        "https://youtu.be/zaoguVWuXA4?si=LegkMzYix6rTO1Zo&t=1536", // 9. Compléter le code
     ],
     5: [
         "", // 1. Tortue : la maison
