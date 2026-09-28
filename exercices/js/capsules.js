@@ -60,15 +60,14 @@ export const capsules = {
         "https://youtu.be/zaoguVWuXA4?si=LegkMzYix6rTO1Zo&t=1536", // 9. Compléter le code
     ],
     5: [
-        "", // 1. Tortue : la maison
-        "", // 2. Graphique des températures
-        "", // 3. Deux courbes, axes nommés
-        "", // 4. Graphique circulaire
-        "", // 5. Notes sous forme de points
-        "", // 6. Trajectoire de la balle
-        "", // 7. Rectangles qui se superposent
-        "", // 8. Simulation de dés
-        "", // 9. Voxels
+        "https://youtu.be/Z21hTwlaUas", // 1. Tortue : la maison
+        "https://youtu.be/Z21hTwlaUas?si=ttRUa13WmHrtqZrs&t=348", // 2. Graphique des températures
+        "https://youtu.be/Z21hTwlaUas?si=ttRUa13WmHrtqZrs&t=536", // 3. Deux courbes, axes nommés
+        "https://youtu.be/Z21hTwlaUas?si=ttRUa13WmHrtqZrs&t=735", // 4. Graphique circulaire
+        "https://youtu.be/Z21hTwlaUas?si=ttRUa13WmHrtqZrs&t=979", // 5. Notes sous forme de points
+        "https://youtu.be/Z21hTwlaUas?si=ttRUa13WmHrtqZrs&t=1188", // 6. Trajectoire de la balle
+        "https://youtu.be/Z21hTwlaUas?si=ttRUa13WmHrtqZrs&t=1804", // 7. Rectangles qui se superposent
+        "https://youtu.be/Z21hTwlaUas?si=ttRUa13WmHrtqZrs&t=2175", // 8. Simulation de dés
     ],
     6: [
         "", // 1. f-string
