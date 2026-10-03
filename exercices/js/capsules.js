@@ -80,4 +80,21 @@ export const capsules = {
         "https://youtu.be/OqHENicLhGQ?si=C6s-qzbb5nHVKCgb&t=1220", // 8. Écrire 500 nombres
         "https://youtu.be/OqHENicLhGQ?si=C6s-qzbb5nHVKCgb&t=1350", // 9. Tracer les nombres du fichier
     ],
+    7: [
+        "https://youtu.be/CoFeLQ6yjMU?si=DnF-GOTwwbcuHtyk",
+        "https://youtu.be/CoFeLQ6yjMU?si=1HKZOy2nJR5ZU-1f&t=221",
+        "https://youtu.be/CoFeLQ6yjMU?si=1HKZOy2nJR5ZU-1f&t=310",
+        "https://youtu.be/CoFeLQ6yjMU?si=1HKZOy2nJR5ZU-1f&t=415",
+        "https://youtu.be/CoFeLQ6yjMU?si=1HKZOy2nJR5ZU-1f&t=527",
+        "https://youtu.be/CoFeLQ6yjMU?si=1HKZOy2nJR5ZU-1f&t=649",
+        "https://youtu.be/CoFeLQ6yjMU?si=1HKZOy2nJR5ZU-1f&t=813",
+        "https://youtu.be/CoFeLQ6yjMU?si=1HKZOy2nJR5ZU-1f&t=918",
+        "https://youtu.be/CoFeLQ6yjMU?si=1HKZOy2nJR5ZU-1f&t=999",
+        "https://youtu.be/CoFeLQ6yjMU?si=1HKZOy2nJR5ZU-1f&t=1391",
+        "https://youtu.be/CoFeLQ6yjMU?si=1HKZOy2nJR5ZU-1f&t=1595",
+        "https://youtu.be/CoFeLQ6yjMU?si=1HKZOy2nJR5ZU-1f&t=1718",
+        "https://youtu.be/CoFeLQ6yjMU?si=1HKZOy2nJR5ZU-1f&t=1963",
+        "https://youtu.be/CoFeLQ6yjMU?si=1HKZOy2nJR5ZU-1f&t=2278",
+        "https://youtu.be/CoFeLQ6yjMU?si=1HKZOy2nJR5ZU-1f&t=2390",
+    ],
 }
