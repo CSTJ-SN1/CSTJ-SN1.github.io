@@ -128,6 +128,17 @@ header {
             color: #fff;
             box-shadow: 0 4px 14px rgba(77,43,140,0.35);
         }
+
+        &.btn-red {
+            color: #c0392b;
+            border-color: #c0392b;
+
+            &:hover {
+                background: #c0392b;
+                color: #fff;
+                box-shadow: 0 4px 14px rgba(192,57,43,0.35);
+            }
+        }
     }
 }
 
