@@ -1,0 +1,66 @@
+<h1>Exercices supplémentaires - Cours 7</h1>
+
+<ol>
+    <li>
+        <p>Créez une liste de températures en degrés Celsius : <code class="language-python">-40, -10, 0, 15, 25, 37, 100</code>.</p>
+        <p>À l'aide d'une boucle, créez une nouvelle liste contenant ces températures converties en Kelvin selon la formule <span class="latex">K = C + 273.15</span>. Affichez la nouvelle liste.</p>
+    </li>
+    <li>
+        <p>À l'aide d'une boucle, affichez les puissances de 2, soit <span class="latex">2^n</span>, pour chaque valeur entière de <span class="latex">n</span> entre 0 et 15.</p>
+    </li>
+    <li>
+        <p>Demandez à l'utilisateur d'entrer sa température corporelle en °C. Si elle est inférieure à 35, affichez "Hypothermie". Si elle est supérieure à 38, affichez "Fièvre". Sinon, affichez "Normale".</p>
+    </li>
+    <li>
+        <p>Créez une liste temps avec les valeurs entières de 0 à 10. Créez ensuite une liste correspondante distance où chaque valeur est calculée selon la formule <span class="latex">d = \frac{1}{2} g t^2</span> avec <span class="latex">g = 9.8</span>.</p>
+        <p>Tracez le graphique (Temps vs Distance) avec Matplotlib et ajoutez le titre "Distance parcourue en chute libre".</p>
+    </li>
+    <li>
+        <p>Un échantillon contient 1000 noyaux radioactifs dont la demi-vie est de 5 ans. Le nombre de noyaux restants est donné par <span class="latex">N = N_0 \times \left(\frac{1}{2}\right)^{t/T}</span>.</p>
+        <p>Calculez <span class="latex">N</span> pour chaque année de 0 à 50 et tracez le graphique de la décroissance radioactive.</p>
+    </li>
+    <li>
+        <p>Avec la liste de mesures de pH suivante, comptez à l'aide d'une boucle combien de solutions sont acides, basiques et neutres. Affichez les trois résultats.</p>
+        <pre><code class="language-python">mesures_ph = [3.2, 7.0, 8.5, 1.1, 12.4, 7.0, 6.9, 9.3, 4.7, 7.0, 13.8, 2.5]</code></pre>
+    </li>
+    <li>
+        <p>Avec la liste de températures quotidiennes suivante, trouvez la température minimale, maximale et la moyenne <strong>sans utiliser</strong> les fonctions <code class="language-python">min()</code>, <code class="language-python">max()</code> et <code class="language-python">sum()</code>.</p>
+        <pre><code class="language-python">temperatures = [12.5, 14.1, 9.8, 16.3, 18.0, 11.2, 7.4, 13.9, 15.6, 10.1]</code></pre>
+    </li>
+    <li>
+        <p>Simulez 1000 lancers d'un dé à 6 faces en utilisant random. Comptez combien de fois le 6 est obtenu.</p>
+        <p>Affichez la proportion obtenue et comparez-la avec la probabilité théorique <span class="latex">\frac{1}{6}</span>.</p>
+    </li>
+    <li>
+        <p>En utilisant la séquence d'ADN suivante, construisez le brin complémentaire en remplaçant chaque lettre selon la règle : A ↔ T et C ↔ G. Affichez le brin complémentaire.</p>
+        <pre><code class="language-python">sequence = "AGCTTTTCATTCTGACTGCAACGGGCAATATGTCTCTGTGTGGATTAAAAAAAGAGTGTCTGATAGCAGC"</code></pre>
+    </li>
+    <li>
+        <p>Avec la même séquence d'ADN, calculez et affichez le pourcentage de bases G et C (taux de GC) dans la séquence.</p>
+    </li>
+    <li>
+        <p>Une culture débute avec 50 bactéries et sa population double toutes les 20 minutes.</p>
+        <p>À l'aide d'une boucle <code class="language-python">while</code>, déterminez après combien de minutes la population dépasse 1 000 000 de bactéries.</p>
+    </li>
+    <li>
+        <p>Simulez la marche aléatoire d'une particule (mouvement brownien en une dimension). La particule débute à la position 0.</p>
+        <p>À chacun des 200 pas, elle se déplace aléatoirement de +1 ou de -1. Sauvegardez chaque position dans une liste et affichez un graphique de la position en fonction du nombre de pas.</p>
+    </li>
+    <li>
+        <p>À l'aide de boucles et de l'opérateur modulo (%), affichez tous les nombres premiers entre 2 et 100.</p>
+    </li>
+    <li>
+        <p>Avec ces deux listes, créez un graphique à barres de l'accélération gravitationnelle de chaque planète.</p>
+        <pre><code class="language-python">planetes = ['Mercure', 'Vénus', 'Terre', 'Mars', 'Jupiter']
+gravite = [3.70, 8.87, 9.81, 3.71, 24.79]</code></pre>
+        <p>Calculez ensuite le poids <span class="latex">P = m \times g</span> d'une personne de 70 kg sur chaque planète et affichez-le dans une phrase.</p>
+    </li>
+    <li>
+        <p>Estimez la valeur de <span class="latex">\pi</span> par la méthode de Monte-Carlo : générez 10 000 points aléatoires <span class="latex">(x, y)</span> où <span class="latex">x</span> et <span class="latex">y</span> sont entre 0.0 et 1.0.</p>
+        <p>Comptez les points qui respectent <span class="latex">x^2 + y^2 \leq 1</span>. L'estimation est donnée par <span class="latex">\pi \approx 4 \times \frac{\text{points à l'intérieur}}{\text{points totaux}}</span>.</p>
+    </li>
+    <li>
+        <p>Selon la loi des gaz parfaits, <span class="latex">P = \frac{nRT}{V}</span>. Avec <span class="latex">n = 1</span> mol, <span class="latex">T = 300</span> K et <span class="latex">R = 0.08206</span> L·atm/(mol·K), calculez la pression pour chaque volume entier de 1 à 20 L.</p>
+        <p>Tracez le graphique du volume (x) et de la pression (y) avec le titre "Loi de Boyle-Mariotte".</p>
+    </li>
+</ol>
