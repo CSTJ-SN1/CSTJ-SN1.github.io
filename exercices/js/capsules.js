@@ -70,31 +70,31 @@ export const capsules = {
         "https://youtu.be/Z21hTwlaUas?si=ttRUa13WmHrtqZrs&t=2175", // 8. Simulation de dés
     ],
     6: [
-        "https://youtu.be/OqHENicLhGQ?si=KcskVCRwykyqHq3l", // 1. f-string
-        "https://youtu.be/OqHENicLhGQ?si=C6s-qzbb5nHVKCgb&t=89", // 2. Prénoms selon leur longueur
-        "https://youtu.be/OqHENicLhGQ?si=C6s-qzbb5nHVKCgb&t=385", // 3. Ajouter un nom dans un fichier
-        "https://youtu.be/OqHENicLhGQ?si=C6s-qzbb5nHVKCgb&t=549", // 4. Afficher les noms avec 👤
-        "https://youtu.be/OqHENicLhGQ?si=C6s-qzbb5nHVKCgb&t=664", // 5. Le plus grand nombre
-        "https://youtu.be/OqHENicLhGQ?si=C6s-qzbb5nHVKCgb&t=905", // 6. Différence plus grand / plus petit
-        "https://youtu.be/OqHENicLhGQ?si=C6s-qzbb5nHVKCgb&t=1039", // 7. Moyenne
-        "https://youtu.be/OqHENicLhGQ?si=C6s-qzbb5nHVKCgb&t=1220", // 8. Écrire 500 nombres
-        "https://youtu.be/OqHENicLhGQ?si=C6s-qzbb5nHVKCgb&t=1350", // 9. Tracer les nombres du fichier
+        "https://youtu.be/lXDBf-wplzk?si=KcskVCRwykyqHq3l", // 1. f-string
+        "https://youtu.be/lXDBf-wplzk?si=C6s-qzbb5nHVKCgb&t=89", // 2. Prénoms selon leur longueur
+        "https://youtu.be/lXDBf-wplzk?si=C6s-qzbb5nHVKCgb&t=385", // 3. Ajouter un nom dans un fichier
+        "https://youtu.be/lXDBf-wplzk?si=C6s-qzbb5nHVKCgb&t=549", // 4. Afficher les noms avec 👤
+        "https://youtu.be/lXDBf-wplzk?si=C6s-qzbb5nHVKCgb&t=664", // 5. Le plus grand nombre
+        "https://youtu.be/lXDBf-wplzk?si=C6s-qzbb5nHVKCgb&t=905", // 6. Différence plus grand / plus petit
+        "https://youtu.be/lXDBf-wplzk?si=C6s-qzbb5nHVKCgb&t=1039", // 7. Moyenne
+        "https://youtu.be/lXDBf-wplzk?si=C6s-qzbb5nHVKCgb&t=1220", // 8. Écrire 500 nombres
+        "https://youtu.be/lXDBf-wplzk?si=C6s-qzbb5nHVKCgb&t=1350", // 9. Tracer les nombres du fichier
     ],
     7: [
-        "https://youtu.be/lXDBf-wplzk?si=DnF-GOTwwbcuHtyk",
-        "https://youtu.be/lXDBf-wplzk?si=1HKZOy2nJR5ZU-1f&t=221",
-        "https://youtu.be/lXDBf-wplzk?si=1HKZOy2nJR5ZU-1f&t=310",
-        "https://youtu.be/lXDBf-wplzk?si=1HKZOy2nJR5ZU-1f&t=415",
-        "https://youtu.be/lXDBf-wplzk?si=1HKZOy2nJR5ZU-1f&t=527",
-        "https://youtu.be/lXDBf-wplzk?si=1HKZOy2nJR5ZU-1f&t=649",
-        "https://youtu.be/lXDBf-wplzk?si=1HKZOy2nJR5ZU-1f&t=813",
-        "https://youtu.be/lXDBf-wplzk?si=1HKZOy2nJR5ZU-1f&t=918",
-        "https://youtu.be/lXDBf-wplzk?si=1HKZOy2nJR5ZU-1f&t=999",
-        "https://youtu.be/lXDBf-wplzk?si=1HKZOy2nJR5ZU-1f&t=1391",
-        "https://youtu.be/lXDBf-wplzk?si=1HKZOy2nJR5ZU-1f&t=1595",
-        "https://youtu.be/lXDBf-wplzk?si=1HKZOy2nJR5ZU-1f&t=1718",
-        "https://youtu.be/lXDBf-wplzk?si=1HKZOy2nJR5ZU-1f&t=1963",
-        "https://youtu.be/lXDBf-wplzk?si=1HKZOy2nJR5ZU-1f&t=2278",
-        "https://youtu.be/lXDBf-wplzk?si=1HKZOy2nJR5ZU-1f&t=2390",
+        "https://youtu.be/CoFeLQ6yjMU?si=DnF-GOTwwbcuHtyk",
+        "https://youtu.be/CoFeLQ6yjMU?si=1HKZOy2nJR5ZU-1f&t=221",
+        "https://youtu.be/CoFeLQ6yjMU?si=1HKZOy2nJR5ZU-1f&t=310",
+        "https://youtu.be/CoFeLQ6yjMU?si=1HKZOy2nJR5ZU-1f&t=415",
+        "https://youtu.be/CoFeLQ6yjMU?si=1HKZOy2nJR5ZU-1f&t=527",
+        "https://youtu.be/CoFeLQ6yjMU?si=1HKZOy2nJR5ZU-1f&t=649",
+        "https://youtu.be/CoFeLQ6yjMU?si=1HKZOy2nJR5ZU-1f&t=813",
+        "https://youtu.be/CoFeLQ6yjMU?si=1HKZOy2nJR5ZU-1f&t=918",
+        "https://youtu.be/CoFeLQ6yjMU?si=1HKZOy2nJR5ZU-1f&t=999",
+        "https://youtu.be/CoFeLQ6yjMU?si=1HKZOy2nJR5ZU-1f&t=1391",
+        "https://youtu.be/CoFeLQ6yjMU?si=1HKZOy2nJR5ZU-1f&t=1595",
+        "https://youtu.be/CoFeLQ6yjMU?si=1HKZOy2nJR5ZU-1f&t=1718",
+        "https://youtu.be/CoFeLQ6yjMU?si=1HKZOy2nJR5ZU-1f&t=1963",
+        "https://youtu.be/CoFeLQ6yjMU?si=1HKZOy2nJR5ZU-1f&t=2278",
+        "https://youtu.be/CoFeLQ6yjMU?si=1HKZOy2nJR5ZU-1f&t=2390",
     ],
 }
