@@ -70,15 +70,15 @@ export const capsules = {
         "https://youtu.be/Z21hTwlaUas?si=ttRUa13WmHrtqZrs&t=2175", // 8. Simulation de dés
     ],
     6: [
-        "https://youtu.be/lXDBf-wplzk?si=KcskVCRwykyqHq3l", // 1. f-string
-        "https://youtu.be/lXDBf-wplzk?si=C6s-qzbb5nHVKCgb&t=89", // 2. Prénoms selon leur longueur
-        "https://youtu.be/lXDBf-wplzk?si=C6s-qzbb5nHVKCgb&t=385", // 3. Ajouter un nom dans un fichier
-        "https://youtu.be/lXDBf-wplzk?si=C6s-qzbb5nHVKCgb&t=549", // 4. Afficher les noms avec 👤
-        "https://youtu.be/lXDBf-wplzk?si=C6s-qzbb5nHVKCgb&t=664", // 5. Le plus grand nombre
-        "https://youtu.be/lXDBf-wplzk?si=C6s-qzbb5nHVKCgb&t=905", // 6. Différence plus grand / plus petit
-        "https://youtu.be/lXDBf-wplzk?si=C6s-qzbb5nHVKCgb&t=1039", // 7. Moyenne
-        "https://youtu.be/lXDBf-wplzk?si=C6s-qzbb5nHVKCgb&t=1220", // 8. Écrire 500 nombres
-        "https://youtu.be/lXDBf-wplzk?si=C6s-qzbb5nHVKCgb&t=1350", // 9. Tracer les nombres du fichier
+        "https://www.youtube.com/watch?v=lXDBf-wplzk", // 1. f-string
+        "https://youtu.be/lXDBf-wplzk?si=tGtt5n50NSFVs7fc&t=89", // 2. Prénoms selon leur longueur
+        "https://youtu.be/lXDBf-wplzk?si=tGtt5n50NSFVs7fc&t=385", // 3. Ajouter un nom dans un fichier
+        "https://youtu.be/lXDBf-wplzk?si=tGtt5n50NSFVs7fc&t=549", // 4. Afficher les noms avec 👤
+        "https://youtu.be/lXDBf-wplzk?si=tGtt5n50NSFVs7fc&t=664", // 5. Le plus grand nombre
+        "https://youtu.be/lXDBf-wplzk?si=tGtt5n50NSFVs7fc&t=905", // 6. Différence plus grand / plus petit
+        "https://youtu.be/lXDBf-wplzk?si=tGtt5n50NSFVs7fc&t=1039", // 7. Moyenne
+        "https://youtu.be/lXDBf-wplzk?si=tGtt5n50NSFVs7fc&t=1220", // 8. Écrire 500 nombres
+        "https://youtu.be/lXDBf-wplzk?si=tGtt5n50NSFVs7fc&t=1350", // 9. Tracer les nombres du fichier
     ],
     7: [
         "https://youtu.be/CoFeLQ6yjMU?si=DnF-GOTwwbcuHtyk",
