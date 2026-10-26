@@ -97,4 +97,15 @@ export const capsules = {
         "https://youtu.be/CoFeLQ6yjMU?si=1HKZOy2nJR5ZU-1f&t=2278",
         "https://youtu.be/CoFeLQ6yjMU?si=1HKZOy2nJR5ZU-1f&t=2390",
     ],
+    9: [
+        "https://youtu.be/AuX5-V8TSNs?si=sthye0mX1fSgRUFE",
+        "https://youtu.be/AuX5-V8TSNs?si=HPOsKBST5WAiz4Xc&t=55",
+        "https://youtu.be/AuX5-V8TSNs?si=HPOsKBST5WAiz4Xc&t=199",
+        "https://youtu.be/AuX5-V8TSNs?si=HPOsKBST5WAiz4Xc&t=385",
+        "https://youtu.be/AuX5-V8TSNs?si=HPOsKBST5WAiz4Xc&t=543",
+        "https://youtu.be/AuX5-V8TSNs?si=HPOsKBST5WAiz4Xc&t=647",
+        "https://youtu.be/AuX5-V8TSNs?si=HPOsKBST5WAiz4Xc&t=873",
+        "https://youtu.be/AuX5-V8TSNs?si=HPOsKBST5WAiz4Xc&t=1019",
+        "https://youtu.be/AuX5-V8TSNs?si=HPOsKBST5WAiz4Xc&t=1414",
+    ],
 }
